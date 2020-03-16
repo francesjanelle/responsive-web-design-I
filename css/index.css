@@ -1,3 +1,108 @@
-/* Use your own code or past solution for Great Idea Web Page CSS here! */
+
+
+/* Your code starts here! */
+
+* {
+    border: solid 2px lightgray; 
+    
+}   /* VISUALIZATION CODE */
+
+/*footer Section*/
+
+.Footer p{
+	text-align: center;
+}
+
+
+/*Contact section*/
+
+.acontact {
+	display: flex;
+	flex-direction: column;
+}
+
+/*BContent section*/
+
+.BContent {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+
+}
+
+
+/*middle image section*/
+
+.Mimage {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	padding: 20px;
+}
+
+/*TContent section*/
+
+.TContent {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+	
+	
+}
+
+
+/*Header section*/
+
+.MContent {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.Cimage {
+	display: flex;
+	align-items: flex-end;
+}
+
+
+
+.IODemand  {
+	display: flex;
+	flex-direction: column;
+	font-size: 20px;
+	padding-top: 50px;
+	margin-top: 60px;
+}
+
+	
+
+/*Nav section*/
+
+.buttons {
+	display: flex;
+	justify-content: space-evenly;
+	width: 70%
+}
+.Navi {
+	display: flex;
+	justify-content: space-evenly;
+	width: auto;
+}
+
+.GSbutton {
+	display: flex;
+	justify-content: center;
+}
+
+h1 {
+	font-size: 70px;
+	text-align: center;
+}
+
+
+
+
+
+
+
 
 
